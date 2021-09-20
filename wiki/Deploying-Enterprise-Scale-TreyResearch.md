@@ -2,7 +2,7 @@
 
 TBD: Enterprise Scale Deployment Accelerator is a bla, bla, bla. In this quickstart, you will implement an Azure foundation that provides your Landing Zones with connectivity on-premises datacenters and branch offices by leveraging a hub and spoke network topology.
 
-Please refer to [AdventureWorks reference implementation](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/treyresearch/README.md) for further details on the Azure foundation enabled in this tutorial.
+Please refer to [Trey Research reference implementation](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/treyresearch/README.md) for further details on the Azure foundation enabled in this tutorial.
 
 ### Pre-requisites
 
